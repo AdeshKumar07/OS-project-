@@ -24,4 +24,4 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 Special Thanks
 Team Members
 Anshuman Yandav, Regis. No: 12306500, Roll No: 29 
-Abhishek Kumar, Regis. No: 12300520, Roll No: 15
+,Abhishek Kumar, Regis. No: 12300520, Roll No: 15

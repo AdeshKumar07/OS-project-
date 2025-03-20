@@ -11,3 +11,8 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
  
 - This simulator was inspired by standard CPU scheduling algorithms used in operating systems courses.
 - Special thanks to the developers of the Java programming language for providing the necessary tools and frameworks.
+## Contribution 
+Special Thanks
+Team Members
+Anshuman Yandav, Regis. No: 12306500, Roll No: 29 
+Abhishek Kumar, Regis. No: 12300520, Roll No: 15

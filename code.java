@@ -34,7 +34,7 @@ public class CPUScheduler {
         sc.close();
     }
     private static void displayResults(int n, int[] Process_id, int[] Arrival_time, int[] Burst_time, int[] Completion_time, int[] Turnaround_time, int[] Waiting_time, int[] Response_time) {
-        System.out.println("\nProcess\tAT\tBT\tCT\tTAT\tWT\tRT");
+        System.out.println("\nProcess\tAT\tBT\tCT\tTAT\tWT");
         for (int i = 0; i < n; i++) {
             System.out.println("P" + Process_id[i] + "\t" + Arrival_time[i] + "\t" + Burst_time[i] + "\t" + Completion_time[i] + "\t" + Turnaround_time[i] + "\t" + Waiting_time[i] + "\t" + Response_time[i]);
         }

@@ -7,3 +7,7 @@ Different CPU scheduling algorithms have unique properties, and choosing the rig
 - **User Interface**: Provides a graphical user interface (GUI) for easy interaction and visualization.
 - **Detailed Output**: Displays the order of process execution, waiting time, turnaround time, and other performance metrics.
 - **Custom Data Structures**: Tailored data structures for managing processes and scheduling tasks.
+## Acknowledgements
+ 
+- This simulator was inspired by standard CPU scheduling algorithms used in operating systems courses.
+- Special thanks to the developers of the Java programming language for providing the necessary tools and frameworks.
